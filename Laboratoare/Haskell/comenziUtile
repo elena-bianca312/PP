@@ -1,0 +1,2 @@
+Pornire interpretor: stack exec ghci
+Pornire interpretor + fisier: stack exec ghci fisier.hs
